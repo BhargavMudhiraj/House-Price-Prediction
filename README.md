@@ -1,6 +1,8 @@
 # House-Price-Prediction
 Build a machine learning model that will give the best future sales prediction of homes
 
+Dataset can be downloaded from here - https://www.kaggle.com/c/zillow-prize-1/data
+
 # Data Description
 
 There are two datasets available –
